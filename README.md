@@ -1,4 +1,4 @@
-# Instagram4Android
+# [INACTIVE - No updates] Instagram4Android
 
 [![](https://jitpack.io/v/charlieAndroidDev/Instagram4Android.svg?style=flat-square)](https://jitpack.io/#charlieAndroidDev/Instagram4Android)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)  [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Instagram4Android-brightgreen.svg?style=flat-square)](https://android-arsenal.com/details/1/6042)
 
